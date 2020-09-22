@@ -1,1 +1,0 @@
-Build a naive Bayes model on the data set for classifying the ham and spam
